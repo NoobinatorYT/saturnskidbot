@@ -18,6 +18,19 @@ USER ID:
 
 You already have Developer mode and stuff setup. So, right click a user, and click Copy ID
 
+INSTALLATION:
+
+go to nodejs.org and install the 8.4 version of it, and make sure it was installed PROPERLY
+
+Open the Cmd Prompt or Powershell and do C:\Users\(youruser)\ and save it wherever you want to save it to.
+Say git clone https://github.com/DonaldJermaneTrump/saturnskidbot.git and it should save.
+
+Go in the folder where you saved these bot files, right click, and click Open Cmd Prompt or Open PowerShell, and say the following.
+npm i discord.js --save
+
+After that finishes, say npm i ms --save
+
+and after that, npm i randomcolor --save
 
 
 That's all you need for your bot!
